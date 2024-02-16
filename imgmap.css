@@ -1,0 +1,22 @@
+body{
+    background-image: url("srd.jpg");
+    background-repeat: no-repeat;
+    background-size: 1500px 1500px;
+ }    
+ header{
+    background-color: whitesmoke;
+    color: black;
+    padding: 30px;
+ }       
+#container{
+    text-align: center;
+}
+p{
+    font-family: sans-serif;
+}
+#image{
+    
+    border-radius: 50px 50px 50px 50px;
+    padding: 30px;
+    
+}
